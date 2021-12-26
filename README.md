@@ -1,2 +1,2 @@
-# Vasily26031988_infra
-Vasily26031988 Infra repository
+bastion_ip = 51.250.8.60
+someinternalhost_IP = 10.128.0.17
